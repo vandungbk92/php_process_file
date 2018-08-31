@@ -1,0 +1,6 @@
+file_doc_1
+doc_2
+excel_2
+excel_4
+txt_3
+txt_4
